@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main{
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.asd{
+  display: flex;
+  justify-content: center;
+  gap: 190px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.po{
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.qqq{
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

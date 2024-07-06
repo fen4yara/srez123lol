@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities"; 
+
+body {
+    background-color: #fcfcfc;
+}
+
+:root {
+    --text-color: #0b633b;
+}
+
+.asd{
+    background-color: #000;
+}
